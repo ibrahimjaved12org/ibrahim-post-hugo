@@ -1,0 +1,33 @@
+{
+  "term": "Spring",
+  "year": "2023",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "9c322caf-1c39-468a-bf4e-46b1d3320973"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ibrahim-post-hugo"
+  },
+  "course_title": "ibrahim-post-hugo",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "**ibrahim-post-hugo**\n\n***publish*****Publish**",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ibrahim-post-hugo",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "8fae43c7-3bfc-4914-bfd9-ba2dfd3b2ed4",
+  "site_short_id": "ibrahim-post-hugo"
+}
